@@ -4,3 +4,9 @@
 ```
 $ sudo pip install pytest pytest-env
 ```
+
+## execute test
+```
+$ cd [project dir]
+$ pytest
+```
